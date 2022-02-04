@@ -1,0 +1,8 @@
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\bin\Debug\PracticeProblemsDay8.exe.config
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\bin\Debug\PracticeProblemsDay8.exe
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\bin\Debug\PracticeProblemsDay8.pdb
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\obj\Debug\PracticeProblemsDay8.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\obj\Debug\PracticeProblemsDay8.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\obj\Debug\PracticeProblemsDay8.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\obj\Debug\PracticeProblemsDay8.exe
+C:\Users\shaba\source\repos\PracticeProblemsDay8\PracticeProblemsDay8\obj\Debug\PracticeProblemsDay8.pdb
